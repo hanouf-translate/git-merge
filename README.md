@@ -1,1 +1,1 @@
-# git-merge — my coding journey
+# git-merge — building with AI
